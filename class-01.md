@@ -31,32 +31,30 @@ The ID attribute uniquely identifies an element from others on the page. This is
 Class attribute is similar to ID, but it’s a way to identify several elements in a page.
 
 Block elements reserve their own line in the code. 
-	<h1>, <p>, <ul>, etc.
 	
 Inline elements continue on the same line as their neighbors.
-	<a>, <em>, <b>, <i>, etc.
 	
-The <div> element creates a block-level box that groups a set of elements together. 
+The div element creates a block-level box that groups a set of elements together. 
 	
-<span> element is an inline element that can contain sections of text in which no other suitable element can be used to differentiate it.
+A span element is an inline element that can contain sections of text in which no other suitable element can be used to differentiate it.
 	
-<iframe> is used to embed another document into the web page.
+iframe is used to embed another document into the web page.
 	
-<src> specifies the url of another page that is referenced.
+Src specifies the url of another page that is referenced.
 	
-The <meta> element contains information about the web page and lives inside the <head> element. It is an empty element. The information contained doesn’t appear in the page, but contains useful information provided to search engines, such as description and keywords.
+The meta element contains information about the web page and lives inside the head element. It is an empty element. The information contained doesn’t appear in the page, but contains useful information provided to search engines, such as description and keywords.
 
 
 ### HTML Chapter 17: HTML5 Layout
-The <header> & <footer> elements can be used to create headers and footers for an entire page or for a specific section of a page, such as an <article> or <section>.
+Header and footer elements can be used to create headers and footers for an entire page or for a specific section of a page, such as an article or section.
 	
-The navigation <nav> element contains the major navigational blocks on a site.
+The navigation element contains the major navigational blocks on a site.
 	
-<article> elements contain parts of a page that stand alone and could potentially be syndicated, such as a blog entry or forum post.
+Article elements contain parts of a page that stand alone and could potentially be syndicated, such as a blog entry or forum post.
 	
-The <aside> element, when inside an <article> contains information related to the article but not essential to the overall meaning. When outside, it contains information related to the entire page, such as links to other parts of the site or a search box.
+The aside element, when inside an article, contains information related to the article but not essential to the overall meaning. When outside, it contains information related to the entire page, such as links to other parts of the site or a search box.
 	
-<section> elements group related content together, but should not be used to wrap an entire page.
+Section elements group related content together, but should not be used to wrap an entire page.
 
 
 ### HTML Chapter 18: Process & Design
