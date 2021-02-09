@@ -8,6 +8,8 @@ This is the space I'll be using to collect and organize my reading notes during 
 
 [Day One](class-01.md)
 
+[Day Two](class-02.md)
+
 
 
 
