@@ -6,7 +6,7 @@ This is the space I'll be using to collect and organize my reading notes during 
 
 ### Daily Reading Assignments
 
-1. Assignment One
+1. [Day One](class-01.md)
 2. Assignment Two
 3. Assignment Three 
 4. Assignment Four
